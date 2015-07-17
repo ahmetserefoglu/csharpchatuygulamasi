@@ -1,0 +1,23 @@
+C:\Users\VMUser\Desktop\nyp2\orgun1\ders8\ornek\ornek\bin\Debug\ornek.exe.config
+C:\Users\VMUser\Desktop\nyp2\orgun1\ders8\ornek\ornek\bin\Debug\ornek.exe
+C:\Users\VMUser\Desktop\nyp2\orgun1\ders8\ornek\ornek\bin\Debug\ornek.pdb
+C:\Users\VMUser\Desktop\nyp2\orgun1\ders8\ornek\ornek\bin\Debug\MySql.Data.dll
+C:\Users\VMUser\Desktop\nyp2\orgun1\ders8\ornek\ornek\obj\Debug\ornek.csprojResolveAssemblyReference.cache
+C:\Users\VMUser\Desktop\nyp2\orgun1\ders8\ornek\ornek\obj\Debug\ornek.Form1.resources
+C:\Users\VMUser\Desktop\nyp2\orgun1\ders8\ornek\ornek\obj\Debug\ornek.Form2.resources
+C:\Users\VMUser\Desktop\nyp2\orgun1\ders8\ornek\ornek\obj\Debug\ornek.Form3.resources
+C:\Users\VMUser\Desktop\nyp2\orgun1\ders8\ornek\ornek\obj\Debug\ornek.Properties.Resources.resources
+C:\Users\VMUser\Desktop\nyp2\orgun1\ders8\ornek\ornek\obj\Debug\ornek.csproj.GenerateResource.Cache
+C:\Users\VMUser\Desktop\nyp2\orgun1\ders8\ornek\ornek\obj\Debug\ornek.exe
+C:\Users\VMUser\Desktop\nyp2\orgun1\ders8\ornek\ornek\obj\Debug\ornek.pdb
+C:\Users\Özal Ticaret\Desktop\ahmetders\3.sınıf 2.dönem\c#2\busene\ders8\ornek\ornek\bin\Debug\ornek.exe.config
+C:\Users\Özal Ticaret\Desktop\ahmetders\3.sınıf 2.dönem\c#2\busene\ders8\ornek\ornek\obj\Debug\ornek.exe
+C:\Users\Özal Ticaret\Desktop\ahmetders\3.sınıf 2.dönem\c#2\busene\ders8\ornek\ornek\obj\Debug\ornek.pdb
+C:\Users\Özal Ticaret\Desktop\ahmetders\3.sınıf 2.dönem\c#2\busene\ders8\ornek\ornek\bin\Debug\ornek.exe
+C:\Users\Özal Ticaret\Desktop\ahmetders\3.sınıf 2.dönem\c#2\busene\ders8\ornek\ornek\bin\Debug\ornek.pdb
+C:\Users\Özal Ticaret\Desktop\ahmetders\3.sınıf 2.dönem\c#2\busene\ders8\ornek\ornek\obj\Debug\ornek.csprojResolveAssemblyReference.cache
+C:\Users\Özal Ticaret\Desktop\ahmetders\3.sınıf 2.dönem\c#2\busene\ders8\ornek\ornek\obj\Debug\ornek.Form1.resources
+C:\Users\Özal Ticaret\Desktop\ahmetders\3.sınıf 2.dönem\c#2\busene\ders8\ornek\ornek\obj\Debug\ornek.Form2.resources
+C:\Users\Özal Ticaret\Desktop\ahmetders\3.sınıf 2.dönem\c#2\busene\ders8\ornek\ornek\obj\Debug\ornek.Form3.resources
+C:\Users\Özal Ticaret\Desktop\ahmetders\3.sınıf 2.dönem\c#2\busene\ders8\ornek\ornek\obj\Debug\ornek.Properties.Resources.resources
+C:\Users\Özal Ticaret\Desktop\ahmetders\3.sınıf 2.dönem\c#2\busene\ders8\ornek\ornek\obj\Debug\ornek.csproj.GenerateResource.Cache

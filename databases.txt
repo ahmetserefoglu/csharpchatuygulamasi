@@ -1,0 +1,29 @@
+db:chat
+table:chat
+	idchat: PK,AI,INT
+	user: Text
+	
+mesaj:
+ Text
+
+db:
+hastane
+table:hasta
+	
+idhasta: PK,AI,INT
+
+	tc: Varchar
+
+	adsoyad: Varchar
+	
+iddr: Int32
+	
+
+
+
+table:doktor
+
+	iddoktor: PK,AI,INT
+
+	drad: Varchar 45
+

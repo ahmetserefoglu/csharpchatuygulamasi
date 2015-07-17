@@ -1,0 +1,10 @@
+C:\Users\VMUser\Desktop\nyp2\orgun2\ders7\chat\chat\bin\Debug\chat.exe.config
+C:\Users\VMUser\Desktop\nyp2\orgun2\ders7\chat\chat\bin\Debug\chat.exe
+C:\Users\VMUser\Desktop\nyp2\orgun2\ders7\chat\chat\bin\Debug\chat.pdb
+C:\Users\VMUser\Desktop\nyp2\orgun2\ders7\chat\chat\bin\Debug\MySql.Data.dll
+C:\Users\VMUser\Desktop\nyp2\orgun2\ders7\chat\chat\obj\Debug\chat.csprojResolveAssemblyReference.cache
+C:\Users\VMUser\Desktop\nyp2\orgun2\ders7\chat\chat\obj\Debug\chat.Form1.resources
+C:\Users\VMUser\Desktop\nyp2\orgun2\ders7\chat\chat\obj\Debug\chat.Properties.Resources.resources
+C:\Users\VMUser\Desktop\nyp2\orgun2\ders7\chat\chat\obj\Debug\chat.csproj.GenerateResource.Cache
+C:\Users\VMUser\Desktop\nyp2\orgun2\ders7\chat\chat\obj\Debug\chat.exe
+C:\Users\VMUser\Desktop\nyp2\orgun2\ders7\chat\chat\obj\Debug\chat.pdb
